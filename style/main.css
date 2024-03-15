@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 15px;
+    width: 1200px;
+}
+
+.key1{
+    display: flex;
+    gap: 20px;
+}
+
+.box{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 204, 255);
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.box1{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 187, 255);
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.box2{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 217, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box3{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 183, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box4{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 238, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box5{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 191, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box6{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 221, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box7{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 213, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box8{
+    width: 60px;
+    height: 40px;
+    background-color: rgb(0, 217, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box9{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(0, 238, 255);
+    height: 40px;
+    margin-top: 20px;
+}
+
+.box10{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(0, 187, 255);
+    height: 40px;
+    margin-top: 20px;
+}
+
+.box11{
+    width: 60px;
+    padding: 10px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(0, 247, 255);
+}
+
+.key2{
+    display: flex;
+    gap: 20px;
+}
+
+.box12{
+    background-color: green;
+    width: 220px;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.box13{
+    background-color: green;
+    width: 220px;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.box14{
+    background-color: green;
+    width: 220px;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.box15{
+    background-color: green;
+    width: 220px;
+    height: 40px;
+    padding-top: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.key3{
+    display: flex;
+    gap: 20px;
+}
+
+.box16{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box17{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box18{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.key4{
+    display: flex;
+    gap: 20px;
+}
+
+.box19{
+    background-color: blueviolet;
+    height: 40px;
+    width: 620px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box20{
+    background-color: blueviolet;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.key5{
+    display: flex;
+    gap: 20px;
+}
+
+.box21{
+    background-color: purple;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box22{
+    background-color: purple;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box23{
+    background-color: purple;
+    width: 260px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box24{
+    background-color: purple;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box25{
+    background-color: purple;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.key6{
+    display: flex;
+    gap: 20px;
+}
+
+.box26{
+background-color: red;
+    width: 460px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box27{
+    background-color: red;
+    width: 460px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.box28{
+    background-color: brown;
+    width: 940px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
